@@ -2,12 +2,12 @@
 
 ## Apps
 
-- Loop - Habit Tracker
-- Writeily Pro
-- Talalarmo Alarm Clock
-- GnuCash
-- Acrylic Paint
-- Simple Gallery
+- [Loop - Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en)
+- [Writeily Pro](https://play.google.com/store/apps/details?id=me.writeily&hl=en)
+- [Talalarmo Alarm Clock](https://play.google.com/store/apps/details?id=trikita.talalarmo&hl=en)
+- [GnuCash](https://play.google.com/store/apps/details?id=org.gnucash.android&hl=en)
+- [Acrylic Paint](https://f-droid.org/repository/browse/?fdid=anupam.acrylic)
+- [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=en)
 
 ## Studied Anti-Patterns
 
@@ -19,6 +19,10 @@
 - Overdraw
 - UnusedResources
 - UselessParent
+
+## Results
+
+@ToDO
 
 ## How to run scripts
 
