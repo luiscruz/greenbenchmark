@@ -24,7 +24,7 @@ Mobile and wearable devices are nowadays the de facto personal computers, while 
 
 ## Results
 
-@ToDO
+@ToDo
 
 ## How to run scripts
 
@@ -68,7 +68,7 @@ $ python run_cached_script.py tests/run_cached_script.json
 
 ## Publications
 
-@ToDo
+*TBD*
 
 ## Contact
 
