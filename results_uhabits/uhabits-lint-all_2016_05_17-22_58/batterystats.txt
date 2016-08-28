@@ -1,0 +1,89 @@
+Battery History:
+         -13m37s349ms 080 08080102 status=charging health=good plug=usb temp=0 volt=0 +plugged +phone_scanning brightness=medium phone_state=out
+         -13m04s412ms 080 08080102
+         -12m58s280ms 080 08080102
+         -11m30s672ms 080 08080102
+         -10m09s606ms 080 08080102
+          -7m26s177ms 080 08080102
+          -6m10s978ms 080 08080102
+          -6m04s860ms 080 08080102
+          -3m21s974ms 080 08080102
+          -2m18s763ms 080 08080102
+          -2m06s080ms 080 08080102
+          -1m59s941ms 080 08080102
+            -43s779ms 080 08080102
+
+Per-PID Stats:
+  PID 2109 wake time: +48s806ms
+  PID 1769 wake time: +7m50s498ms
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 65d 22h 32m 54s 711ms realtime, 65d 22h 32m 54s 711ms uptime, 
+  Screen on: 0ms (---%), Input events: 0, Active phone call: 0ms (---%)
+  Screen brightnesses: No activity
+  Total received: 0B, Total sent: 0B
+  Total full wakelock time: 0ms , Total partial wakelock time: 0ms 
+  Signal levels: No activity
+  Signal scanning time: 0ms 
+  Radio types: No activity
+  Radio data uptime when unplugged: 0 ms
+  Wifi on: 0ms (---%), Wifi running: 0ms (---%), Bluetooth on: 0ms (---%)
+ 
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  #1000:
+    User activity: 158 other, 71 button, 573 touch
+    (nothing executed)
+  #1013:
+    (nothing executed)
+  #10014:
+    Apk com.android.exchange:
+      (nothing executed)
+  #10020:
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService:
+        Created for: 0ms  uptime
+        Starts: 0, launches: 1
+  #10057:
+    (nothing executed)
+
+Statistics since last unplugged:
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 13m 40s 297ms realtime, 13m 40s 297ms uptime, 
+  Screen on: 0ms (---%), Input events: 0, Active phone call: 0ms (---%)
+  Screen brightnesses: No activity
+  Total received: 0B, Total sent: 0B
+  Total full wakelock time: 0ms , Total partial wakelock time: 0ms 
+  Signal levels: No activity
+  Signal scanning time: 0ms 
+  Radio types: No activity
+  Radio data uptime when unplugged: 0 ms
+  Wifi on: 0ms (---%), Wifi running: 0ms (---%), Bluetooth on: 0ms (---%)
+ 
+  Device is currently plugged into power
+    Last discharge cycle start level: 80
+    Last discharge cycle end level: 80
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+ 
+  #1000:
+    User activity: 158 other, 71 button, 573 touch
+    (nothing executed)
+  #1013:
+    (nothing executed)
+  #10014:
+    Apk com.android.exchange:
+      (nothing executed)
+  #10020:
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService:
+        Created for: 0ms  uptime
+        Starts: 0, launches: 1
+  #10057:
+    (nothing executed)

@@ -1,0 +1,9 @@
+timestamp,event
+1468689825,Started
+1468689825,UninstallApp
+1468689826,InstallApp
+1468689828,Reset BatteryStats
+1468689828,OpenApp
+1468689828,InteractionStarted
+1468690029,InteractionEnded
+1468690029,End

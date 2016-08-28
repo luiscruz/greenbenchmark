@@ -1,0 +1,73 @@
+Battery History:
+          -3m18s881ms 080 08080102 status=charging health=good plug=usb temp=0 volt=0 +plugged +phone_scanning brightness=medium phone_state=out
+
+Per-PID Stats:
+  PID 2109 wake time: +49s655ms
+  PID 1769 wake time: +3m18s937ms
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 110d 3h 23m 25s 276ms realtime, 110d 3h 23m 25s 276ms uptime, 
+  Screen on: 0ms (---%), Input events: 0, Active phone call: 0ms (---%)
+  Screen brightnesses: No activity
+  Total received: 0B, Total sent: 0B
+  Total full wakelock time: 0ms , Total partial wakelock time: 0ms 
+  Signal levels: No activity
+  Signal scanning time: 0ms 
+  Radio types: No activity
+  Radio data uptime when unplugged: 0 ms
+  Wifi on: 0ms (---%), Wifi running: 0ms (---%), Bluetooth on: 0ms (---%)
+ 
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  #1000:
+    User activity: 185 button, 103 touch
+    (nothing executed)
+  #1013:
+    (nothing executed)
+  #10013:
+    Apk com.android.providers.media:
+      (nothing executed)
+  #10014:
+    Apk com.android.exchange:
+      (nothing executed)
+  #10052:
+    (nothing executed)
+
+Statistics since last unplugged:
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 3m 20s 546ms realtime, 3m 20s 546ms uptime, 
+  Screen on: 0ms (---%), Input events: 0, Active phone call: 0ms (---%)
+  Screen brightnesses: No activity
+  Total received: 0B, Total sent: 0B
+  Total full wakelock time: 0ms , Total partial wakelock time: 0ms 
+  Signal levels: No activity
+  Signal scanning time: 0ms 
+  Radio types: No activity
+  Radio data uptime when unplugged: 0 ms
+  Wifi on: 0ms (---%), Wifi running: 0ms (---%), Bluetooth on: 0ms (---%)
+ 
+  Device is currently plugged into power
+    Last discharge cycle start level: 80
+    Last discharge cycle end level: 80
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+ 
+  #1000:
+    User activity: 185 button, 103 touch
+    (nothing executed)
+  #1013:
+    (nothing executed)
+  #10013:
+    Apk com.android.providers.media:
+      (nothing executed)
+  #10014:
+    Apk com.android.exchange:
+      (nothing executed)
+  #10052:
+    (nothing executed)

@@ -1,0 +1,8 @@
+timestamp,event
+1462358072,Started
+1462358072,UninstallApp
+1462358073,InstallApp
+1462358076,OpenApp
+1462358077,InteractionStarted
+1462358126,InteractionEnded
+1462358126,End

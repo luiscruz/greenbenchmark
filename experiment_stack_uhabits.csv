@@ -1,0 +1,5 @@
+uhabits-lint-all,org.isoron.uhabits,apks/uhabits-lint-all.apk,uhabits_cache.json
+uhabits-lint-overdraw,org.isoron.uhabits,apks/uhabits-lint-overdraw.apk,uhabits_cache.json
+uhabits-lint-unused-resource,org.isoron.uhabits,apks/uhabits-lint-unused-resource.apk,uhabits_cache.json
+blank-app,com.example.luiscruz.blankapp,apks/blank-app.apk,uhabits_cache.json
+uhabits,org.isoron.uhabits,apks/uhabits.apk,uhabits_cache.json

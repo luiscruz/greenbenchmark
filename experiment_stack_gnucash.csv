@@ -1,0 +1,5 @@
+gnucash,org.gnucash.android,apks/gnucash.apk,gnucash_cache.json
+gnucash-lint-obsolete-layout-param,org.gnucash.android,apks/gnucash-lint-obsoletelayoutparam.apk,gnucash_cache.json
+gnucash-lint-recycle,org.gnucash.android,apks/gnucash-lint-recycle.apk,gnucash_cache.json
+gnucash-lint-all,org.gnucash.android,apks/gnucash-lint-all.apk,gnucash_cache.json
+blank-app,com.example.luiscruz.blankapp,apks/blank-app.apk,gnucash_cache.json

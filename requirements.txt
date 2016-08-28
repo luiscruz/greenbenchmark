@@ -1,0 +1,5 @@
+pandas
+matplotlib
+patsy
+statsmodels
+tqdm
