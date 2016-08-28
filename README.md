@@ -73,4 +73,4 @@ $ python run_cached_script.py tests/run_cached_script.json
 For more information feel free to contact:
 
 - Luis Cruz - luiscruz@fe.up.pt
-- Rui Maranhão - rui@computer.org
+- Rui Abreu - rui@computer.org
