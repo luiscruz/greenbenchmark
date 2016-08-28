@@ -1,5 +1,7 @@
 # Green Benchmarking
 
+Mobile and wearable devices are nowadays the de facto personal computers, while desktop computers are becoming less popular. Therefore, it is important for companies to deliver energy-efficient mobile applications. We studied whether or not a set of best performance-based practices have an impact on the energy consumed by Android applications. In an experimental study with six popular mobile applications, we observed that the battery of the mobile device can last up to approximately an extra hour if the applications are developed with energy-aware practices. This work paves the way for a set of guidelines for energy-aware automatic refactoring techniques.
+
 ## Apps
 
 - [Loop - Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en)
