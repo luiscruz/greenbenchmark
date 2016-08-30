@@ -22,10 +22,6 @@ Mobile and wearable devices are nowadays the de facto personal computers, while 
 - UnusedResources
 - UselessParent
 
-## Results
-
-@ToDo
-
 ## How to run scripts
 
 ### Run experiments
