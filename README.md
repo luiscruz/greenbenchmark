@@ -64,7 +64,7 @@ $ python run_cached_script.py tests/run_cached_script.json
 
 ## Publications
 
-*TBD*
+- Luis Cruz and Rui Abreu (2017). [Performance-based Guidelines for Energy Efficient Mobile Applications](https://luiscruz.github.io/papers/cruz2017performance.pdf). In IEEE/ACM International Conference on Mobile Software Engineering and Systems, MOBILESoft.
 
 ## Contact
 
